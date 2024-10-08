@@ -1,7 +1,7 @@
 # Yuliia
 
 ## About Me
-I am a manual QA, start my journey in this role in 2020...
+I am a manual QA, I'm starting the journey in this role in 2020...
 
 ## Skills
 - Manual testing
@@ -23,5 +23,6 @@ I am a manual QA, start my journey in this role in 2020...
 - Email: umanuilova7@gmail.com
 - LinkedIn: https://www.linkedin.com/in/yuliia-manuilova-8049391b4/ 
 - Facebook: https://www.facebook.com/Julick17
-- Telegram: ![image](https://github.com/user-attachments/assets/b8805830-e218-42b1-a8a5-7642987bee02)
+- Telegram: https://t.me/yulick_17
+  
  
