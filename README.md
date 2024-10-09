@@ -15,7 +15,7 @@ I am a manual QA, I'm starting the journey in this role in 2020...
 - Problem-solving skill
 
 ## Projects
-- mPOS: This mobile point of sales terminal should be used in different stores.
+- mPOS: This mobile point of sales terminal can and should be used in different stores.
 - STASH (https://play.google.com/store/apps/details?id=com.stashrnapp): The project is dedicated to the delivery service in Sweden.
 - TosMap: The project is designed for people with disabilities. It allows them to find a suitable place to visit. It was created by Ukrainian developers and placed in the Play Market.
 
