@@ -15,7 +15,7 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 - Software WEB and Mobile testing
 - Hardware testing
 - CLI, Linux, VS code (using different IDEs)
-- Agile Methodologies
+- Agile Methodologies 'Scrum'
 - Test Plan Creation
 - Test summary report creation (non-commercial experience)
 
@@ -30,6 +30,7 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 
 - mPOS: This mobile point of sales terminal can and should be used in different stores.
 - STASH (https://play.google.com/store/apps/details?id=com.stashrnapp): The project is dedicated to the delivery service in Sweden.
+- [www.Y8.com ](https://www.y8.com/) Functional testing WEB and Mob
 - TosMap: The project is designed for people with disabilities. It allows them to find a suitable place to visit. It was created by Ukrainian developers and placed in the Play Market.
 
 ## Contact
