@@ -7,7 +7,9 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 
 ## Skills
 
+- Requirements creation, analysis, and testing
 - Manual testing
+- Cross-browser, cross-platform testing, emulators
 - Test Case Development
 - Executing tests
 - Bug Reporting
@@ -15,16 +17,32 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 - Software WEB and Mobile testing
 - Hardware testing
 - CLI, Linux, VS code (using different IDEs)
+- Skills in creating test plans, test cases, check-lists, and bug report
+- Experience with Jira, Trello, MS Azure, Confluence
 - Agile Methodologies 'Scrum'
 - Test Plan Creation
 - Test summary report creation (non-commercial experience)
+- Strong knowledge of Test Design Techniques (Use case, Equivalence Partitioning, Boundary Value Analysis, Decision Table, State Transition)
+- Basic knowledge of HTML/CSS. Creation of basic queries in MySQL, PuTTY, CLI console
+- Understanding of STLC and SDLC: Agile (scrum, kanban)
+- Learning a GitHub )
+
+Complete 'Python fundamentals course' via UDEMY
+Work with this OS: Windows, Linux/ Android, IOS
 
 ## Personal skills
 
-- Good communication 
+- Good communication
+- Self-organized
+- Self-motivated
+- Self-disciplined
+- Responsible
 - A conflict-free person
+- Team player
 - Collation with all team-members
 - Problem-solving
+- Willingness to continually learn and improve
+- Strong attention to detail and accuracy
 
 ## Projects
 
@@ -39,4 +57,11 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 - Facebook: https://www.facebook.com/Julick17
 - Telegram: https://t.me/yulick_17
   
- 
+ ## Additional info
+
+I have a disability. 
+## But my ability is stronger than my disability
+
+
+
+
