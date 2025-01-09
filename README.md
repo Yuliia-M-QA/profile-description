@@ -17,9 +17,9 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 - Software WEB and Mobile testing
 - Hardware testing
 - CLI, Linux, VS code (using different IDEs)
-- Skills in creating test plans, test cases, check-lists, and bug report
+- Skills in creating test plans, check-lists, and bug report
 - Experience with Jira, Trello, MS Azure, Confluence
-- Agile Methodologies 'Scrum'
+- Agile Methodologies 'Scrum'/ 'Kanban'
 - Test Plan Creation
 - Test summary report creation (non-commercial experience)
 - Strong knowledge of Test Design Techniques (Use case, Equivalence Partitioning, Boundary Value Analysis, Decision Table, State Transition)
@@ -36,6 +36,7 @@ Work with this OS: Windows, Linux/ Android, IOS
 - Self-organized
 - Self-motivated
 - Self-disciplined
+- Adaptable
 - Responsible
 - A conflict-free person
 - Team player
@@ -52,6 +53,7 @@ Work with this OS: Windows, Linux/ Android, IOS
 - TosMap: The project is designed for people with disabilities. It allows them to find a suitable place to visit. It was created by Ukrainian developers and placed in the Play Market.
 
 ## Contact
+
 - Email: umanuilova7@gmail.com
 - LinkedIn: https://www.linkedin.com/in/yuliia-manuilova-8049391b4/ 
 - Facebook: https://www.facebook.com/Julick17
@@ -62,6 +64,12 @@ Work with this OS: Windows, Linux/ Android, IOS
 I have a disability. 
 ## But my ability is stronger than my disability
 
+## Hobby
 
+- Billiard: piramide, snooker
+- Cars: I like to drive and do it daily )
+- 10.2024 Finalist of the Dev Challenge XXI
+- 11.2021 Finalist of the Dev Challenge XVIII
+- 11.2020 Finalist of the Dev Challenge XVII
 
 
