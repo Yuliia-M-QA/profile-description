@@ -6,7 +6,6 @@ I'm starting the journey in this role in 2020...
 I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in software testing and a proven track record of identifying and resolving issues to enhance user experience. Skilled in test case creation, execution, and bug reporting with a strong attention to detail. I am committed to ensuring high-quality software delivery and continuous improvement.
 
 ## Skills
-
 - Requirements creation, analysis, and testing
 - Manual testing
 - Cross-browser, cross-platform testing, emulators
@@ -16,8 +15,10 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 - Regression Testing
 - Software WEB and Mobile testing
 - Hardware testing
-- CLI, Linux, VS code (using different IDEs)
+- CLI, Linux, VS code (used different IDEs)
 - Skills in creating test plans, check-lists, and bug report
+- To create the road-map I was using 'MIRO'
+- To create the test cases the 'State transition diagram I'm used the Google service like Draw
 - Experience with Jira, Trello, MS Azure, Confluence
 - Agile Methodologies 'Scrum'/ 'Kanban'
 - Test Plan Creation
@@ -28,6 +29,7 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 - Learning a GitHub )
 
 Complete 'Python fundamentals course' via UDEMY
+
 Work with this OS: Windows, Linux/ Android, IOS
 
 ## Personal skills
@@ -68,7 +70,7 @@ I have a disability.
 
 - Billiard: piramide, snooker
 - Cars: I like to drive and do it daily )
-- 10.2024 Finalist of the Dev Challenge XXI
+- 11.2024 Finalist of the Dev Challenge XXI
 - 11.2021 Finalist of the Dev Challenge XVIII
 - 11.2020 Finalist of the Dev Challenge XVII
 
