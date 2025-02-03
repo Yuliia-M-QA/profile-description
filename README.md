@@ -18,19 +18,22 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 - CLI, Linux, VS code (used different IDEs)
 - Skills in creating test plans, check-lists, and bug report
 - To create the road-map I was using 'MIRO'
-- To create the test cases the 'State transition diagram I'm used the Google service like Draw
+- To create the 'State transition diagram' I used Google service like Draw
 - Experience with Jira, Trello, MS Azure, Confluence
 - Agile Methodologies 'Scrum'/ 'Kanban'
 - Test Plan Creation
 - Test summary report creation (non-commercial experience)
 - Strong knowledge of Test Design Techniques (Use case, Equivalence Partitioning, Boundary Value Analysis, Decision Table, State Transition)
-- Basic knowledge of HTML/CSS. Creation of basic queries in MySQL, PuTTY, CLI console
+- Basic knowledge of HTML/CSS. Creation of basic queries in MySQL
+- Set up the PuTTY
+- Work with CLI console (terminal in IDE)
 - Understanding of STLC and SDLC: Agile (scrum, kanban)
 - Learning a GitHub )
 
 Complete 'Python fundamentals course' via UDEMY
 
-Work with this OS: Windows, Linux/ Android, IOS
+Work with this OS: Windows, MacOS/Linux
+In mobile - Android, IOS
 
 ## Personal skills
 
@@ -69,7 +72,7 @@ I have a disability.
 ## Hobby
 
 - Billiard: piramide, snooker
-- Cars: I like to drive and do it daily )
+- I like to drive and do it daily )
 - 11.2024 Finalist of the Dev Challenge XXI
 - 11.2021 Finalist of the Dev Challenge XVIII
 - 11.2020 Finalist of the Dev Challenge XVII
