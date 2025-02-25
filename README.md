@@ -62,7 +62,7 @@ In mobile - Android, IOS
 - Email: umanuilova7@gmail.com
 - LinkedIn: https://www.linkedin.com/in/yuliia-manuilova-8049391b4/ 
 - Facebook: https://www.facebook.com/Julick17
-- Telegram: https://t.me/yulick_17
+- Telegram: https://t.me/julick_17
   
  ## Additional info
 
