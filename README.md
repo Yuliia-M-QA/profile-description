@@ -30,7 +30,7 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 - Understanding of STLC and SDLC: Agile (scrum, kanban)
 - Learning a GitHub )
 
-##Achivements
+##Achievements
 
 - 11.2024 Finalist of the Dev Challenge XXI
 - 11.2021 Finalist of the Dev Challenge XVIII
