@@ -17,8 +17,8 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 - Hardware testing
 - CLI, Linux, VS code (used different IDEs)
 - Skills in creating test plans, check-lists, and bug report
-- To create the road-map I was using 'MIRO'
-- To create the 'State transition diagram' I used Google service like Draw
+- To create the road map I was using 'MIRO'
+- To create the 'State transition diagram' I used Google services
 - Experience with Jira, Trello, MS Azure, Confluence
 - Agile Methodologies 'Scrum'/ 'Kanban'
 - Test Plan Creation
@@ -30,6 +30,13 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 - Understanding of STLC and SDLC: Agile (scrum, kanban)
 - Learning a GitHub )
 
+##Achivements
+
+- 11.2024 Finalist of the Dev Challenge XXI
+- 11.2021 Finalist of the Dev Challenge XVIII
+- 11.2020 Finalist of the Dev Challenge XVII
+
+Obtained certification 'DataArt Winter IT Camp 2025'
 Complete 'Python fundamentals course' via UDEMY
 
 Work with this OS: Windows, MacOS/Linux
@@ -72,9 +79,7 @@ I have a disability.
 ## Hobby
 
 - Billiard: piramide, snooker
-- I like to drive and do it daily )
-- 11.2024 Finalist of the Dev Challenge XXI
-- 11.2021 Finalist of the Dev Challenge XVIII
-- 11.2020 Finalist of the Dev Challenge XVII
+- Driving
+
 
 
