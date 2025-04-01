@@ -27,7 +27,7 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 - Basic knowledge of HTML/CSS. Creation of basic queries in MySQL
 - Set up the PuTTY
 - Work with CLI console (terminal in IDE)
-- Understanding of STLC and SDLC: Agile (scrum, kanban)
+- Understanding of STLC and SDLC
 - Learning a GitHub )
 
 ##Achievements
