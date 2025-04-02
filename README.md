@@ -26,11 +26,11 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 - Strong knowledge of Test Design Techniques (Use case, Equivalence Partitioning, Boundary Value Analysis, Decision Table, State Transition)
 - Basic knowledge of HTML/CSS. Creation of basic queries in MySQL
 - Set up the PuTTY
-- Work with CLI console (terminal in IDE)
+- Work with CLI console (on my laptop) and terminal in IDE
 - Understanding of STLC and SDLC
 - Learning a GitHub )
 
-##Achievements
+## Achievements
 
 - 11.2024 Finalist of the Dev Challenge XXI
 - 11.2021 Finalist of the Dev Challenge XVIII
