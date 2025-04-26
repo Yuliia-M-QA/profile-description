@@ -70,7 +70,7 @@ In mobile - Android, IOS
 - LinkedIn: https://www.linkedin.com/in/yuliia-manuilova-8049391b4/ 
 - Facebook: https://www.facebook.com/Julick17
 - Telegram: https://t.me/julick_17
-- Teams: Julietta7101 
+- Teams: julietta7101  
   
  ## Additional info
 
