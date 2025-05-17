@@ -20,7 +20,7 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 - To create the road map I was using 'MIRO'
 - To create the 'State transition diagram' I used Google services
 - Experience with Jira, Trello, MS Azure, Confluence
-- Agile Methodologies 'Scrum'/ 'Kanban'
+- Agile Methodologies 'Scrum' | 'Kanban' | 'Scrumban'
 - Test Plan Creation
 - Test summary report creation (non-commercial experience)
 - Strong knowledge of Test Design Techniques (Use case, Equivalence Partitioning, Boundary Value Analysis, Decision Table, State Transition)
@@ -28,7 +28,8 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 - Set up the PuTTY
 - Work with CLI console (on my laptop) and terminal in IDE
 - Understanding of STLC and SDLC
-- Learning a GitHub )
+- Learning a GitHub
+- Learning the 'Playwright'
 
 ## Achievements
 
@@ -75,7 +76,7 @@ In mobile - Android, IOS
  ## Additional info
 
 I have a disability. 
-## But my ability is stronger than my disability
+## But my ability is stronger!
 
 ## Hobby
 
