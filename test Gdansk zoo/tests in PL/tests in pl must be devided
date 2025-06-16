@@ -1,0 +1,22 @@
+import { test, expect } from '@playwright/test';
+
+test('test', async ({ page }) => {
+  await page.goto('https://zoo.gdansk.pl/en/homepage/');
+  await page.getByRole('link', { name: 'pl' }).click();
+  await page.getByRole('button', { name: 'Zgadzam się' }).click();
+  await page.locator('#menu-item-39').getByRole('link', { name: 'Wizyta w ZOO' }).click();
+  await page.locator('#menu-item-2898').getByRole('link', { name: 'O ZOO' }).click();
+  await page.getByRole('link', { name: 'Zwierzęta' }).click();
+  await page.locator('#menu-item-380').getByRole('link', { name: 'Edukacja' }).click();
+  await page.locator('#menu-item-325').getByRole('link', { name: 'Aktualności' }).click();
+  const page1Promise = page.waitForEvent('popup');
+  await page.getByRole('link', { name: 'Fundacja', exact: true }).click();
+  const page1 = await page1Promise;
+  await page1.getByRole('button', { name: 'Zgadzam się' }).click();
+  const page2Promise = page.waitForEvent('popup');
+  await page.getByRole('link', { name: 'Bilety' }).click();
+  const page2 = await page2Promise;
+  await page2.getByRole('img', { name: 'Zwiedzanie ZOO' }).click();
+  await page2.getByRole('row', { name: 'Bilet normalny jednorazowy 45' }).getByRole('button').nth(1).click();
+  await page2.getByRole('button', { name: 'Dalej' }).click();
+});
