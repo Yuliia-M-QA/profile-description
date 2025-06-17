@@ -2,6 +2,7 @@ import { test, expect } from '@playwright/test';
 
 test('test', async ({ page }) => {
   await page.goto('https://zoo.gdansk.pl/en/homepage/');
+  //przelącz jezyk na PL
   await page.getByRole('link', { name: 'pl' }).click();
   await page.getByRole('button', { name: 'Zgadzam się' }).click();
   const page1Promise = page.waitForEvent('popup');
@@ -14,6 +15,7 @@ test('test', async ({ page }) => {
   await page1.getByRole('textbox', { name: 'Imię' }).click();
   await page1.getByRole('textbox', { name: 'Imię' }).fill('qq');
   await page1.locator('#form_uzytkownik_email').click();
+  //wpisz taki samy e-mail wczesnej zarejestrowany
   await page1.locator('#form_uzytkownik_email').fill('a@b.c');
   await page1.getByRole('textbox', { name: 'Nazwisko' }).click();
   await page1.getByRole('textbox', { name: 'Nazwisko' }).fill('qq');
@@ -30,5 +32,6 @@ test('test', async ({ page }) => {
   await page1.getByRole('checkbox', { name: 'Wyrażam zgodę na przetwarzanie danych osobowych w celach realizacji zamówień*' }).check();
   await page1.getByRole('checkbox', { name: 'Wyrażam zgodę na przetwarzanie danych osobowych w celach marketingowych' }).check();
   await page1.getByRole('button', { name: 'Dalej' }).click();
+  //pay attention to popup msg
   await page1.getByText('Zamknij').click();
 });
