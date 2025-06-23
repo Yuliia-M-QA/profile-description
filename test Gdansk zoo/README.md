@@ -11,3 +11,4 @@ This project contains **automated UI tests** for the Gdańsk Zoo ticketing syste
 ### Install dependencies
 ```bash
 npm install
+
