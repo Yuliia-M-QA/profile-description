@@ -1,3 +1,5 @@
+import { test, expect } from '@playwright/test';
+
 test('Tickets page opens in a new popup window', async ({ page }) => {
   await page.goto('https://zoo.gdansk.pl/en/homepage/');
   await page.getByRole('button', { name: 'Zgadzam się' }).click();
