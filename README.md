@@ -37,7 +37,8 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 - 11.2021 Finalist of the Dev Challenge XVIII
 - 11.2020 Finalist of the Dev Challenge XVII
 
-Obtained certification 'DataArt Winter IT Camp 2025'
+Obtained certification 'DataArt Winter IT Camp 2025' <b>
+
 Complete 'Python fundamentals course' via UDEMY
 
 Work with this OS: Windows, MacOS/Linux
