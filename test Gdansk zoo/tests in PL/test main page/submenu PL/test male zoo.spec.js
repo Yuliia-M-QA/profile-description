@@ -12,5 +12,9 @@ test('test', async ({ page }) => {
     // click on 'male zoo' link
     // await page.getByTitle('Małe Zoo').click();
     await page.getByRole('link', { name: 'Małe Zoo' }).click();
+    test('some test', async ({ page }) => {
+  // твій код
+}, { timeout: 60000 }); // 60 секунд
+
 
 });

@@ -11,4 +11,8 @@ test('test', async ({ page }) => {
   await page.locator('#menu-item-39').getByRole('link', { name: 'Wizyta w ZOO' }).click();
    // click on 'Odkrywca - Zdobywca' link
    await page.locator('#content').getByRole('link', { name: 'Odkrywca - Zdobywca' }).click();
+   test('some test', async ({ page }) => {
+  // твій код
+}, { timeout: 60000 }); // 60 секунд
+
 });

@@ -13,5 +13,10 @@ test('Language switcher changes content between PL and EN', async ({ page }) => 
   // І назад
   await page.getByRole('link', { name: 'en' }).click();
   await expect(page.getByRole('link', { name: 'Visit' })).toBeVisible();
+
+  test('some test', async ({ page }) => {
+  // твій код
+}, { timeout: 60000 }); // 60 секунд
+
 });
 

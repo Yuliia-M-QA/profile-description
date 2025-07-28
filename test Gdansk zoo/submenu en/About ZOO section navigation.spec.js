@@ -15,5 +15,9 @@ test('User can access “About ZOO” subsections', async ({ page }) => {
 
   // Очікуємо заголовок на сторінці, щоб бути впевненим
   await expect(page.locator('h1')).toContainText('History of the ZOO');
+  test('some test', async ({ page }) => {
+  // твій код
+}, { timeout: 60000 }); // 60 секунд
+
 });
 

@@ -17,4 +17,9 @@ test('Footer structure should be equal in PL and EN versions', async ({ page }) 
   // Якщо вони *спеціально різні* — просто логіка для порівняння
   console.log(`PL: ${plSections}, EN: ${enSections}`);
   expect(enSections).toBeGreaterThan(0); // або toBe(plSections) якщо вони *повинні* бути однаковими
+
+  test('some test', async ({ page }) => {
+  // твій код
+}, { timeout: 60000 }); // 60 секунд
+
 });

@@ -11,6 +11,10 @@ test('Visit submenu pages are accessible', async ({ page }) => {
   // Вибираємо "70th anniversary"
   await page.getByRole('link', { name: '70th anniversary' }).click();
   await expect(page.locator('h1')).toContainText('70th anniversary');
+  test('some test', async ({ page }) => {
+  // твій код
+}, { timeout: 60000 }); // 60 секунд
+
 
   // Можеш скопіювати цей шматок і повторити для інших пунктів:
   // "Discount cards", "Food & drink", "Zoo Maps", "ZOO Train", etc.
