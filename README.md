@@ -9,7 +9,7 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 - Requirements creation, analysis, and testing
 - Manual testing
 - Cross-browser, cross-platform testing, emulators
-- Test Case Development
+- Test Case development
 - Executing tests
 - Bug Reporting
 - Regression Testing
@@ -19,14 +19,18 @@ I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in
 - Skills in creating test plans, check-lists, and bug report
 - To create the road map I was using 'MIRO'
 - To create the 'State transition diagram' I used Google services
+- Work with 'FIGMA', it helps me see the mock project and create necessary test cases
 - Experience with Jira, Trello, MS Azure, Confluence
 - Agile Methodologies 'Scrum' | 'Kanban' | 'Scrumban'
-- Test Plan Creation
+- Test plan creation
+- Test scenario creation
 - Test summary report creation (non-commercial experience)
 - Strong knowledge of Test Design Techniques (Use case, Equivalence Partitioning, Boundary Value Analysis, Decision Table, State Transition)
-- Basic knowledge of HTML/CSS. Creation of basic queries in MySQL
+- Basic knowledge of HTML/CSS.
+- Creation of basic queries in MySQL
 - Set up the PuTTY
 - Work with CLI console (on my laptop) and terminal in IDE
+- Flashed a new version via a programmer
 - Understanding of STLC and SDLC
 - Learning a GitHub
 - Learning the 'Playwright'
