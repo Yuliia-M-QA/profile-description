@@ -1,92 +1,158 @@
-# My name is Yuliia
+# Hi, I'm Yuliia 👋
 
 ## About Me
-I am a manual QA | Detail-Oriented | Passionate About Software Quality| 
-I'm starting the journey in this role in 2020...
-I'm a dedicated Manual QA Tester with over 2,5 years of commercial experience in software testing and a proven track record of identifying and resolving issues to enhance user experience. Skilled in test case creation, execution, and bug reporting with a strong attention to detail. I am committed to ensuring high-quality software delivery and continuous improvement.
+
+I'm a **Manual QA Engineer** with over **2.5 years of commercial experience** in software and hardware testing.
+
+I started my QA journey in 2020 and have experience testing **web, mobile, and embedded/hardware-related products**. My background includes test case creation and execution, requirements analysis, bug reporting, regression testing, test documentation, and collaboration with development teams.
+
+I'm passionate about software quality, attention to detail, and continuous learning. Currently, I'm expanding my skills in **Playwright, JavaScript, GitHub, and AI prompting for QA and software testing**.
 
 ## Skills
-- Requirements creation, analysis, and testing
-- Manual testing
-- Cross-browser, cross-platform testing, emulators
-- Test Case development
-- Executing tests
-- Bug Reporting
-- Regression Testing
-- Software WEB and Mobile testing
-- Hardware testing
-- CLI, Linux, VS code (used different IDEs)
-- Skills in creating test plans, check-lists, and bug report
-- To create the road map I was using 'MIRO'
-- To create the 'State transition diagram' I used Google services
-- Work with 'FIGMA', it helps me see the mock project and create necessary test cases
-- Experience with Jira, Trello, MS Azure, Confluence
-- Agile Methodologies 'Scrum' | 'Kanban' | 'Scrumban'
-- Test plan creation
-- Test scenario creation
-- Test summary report creation (non-commercial experience)
-- Strong knowledge of Test Design Techniques (Use case, Equivalence Partitioning, Boundary Value Analysis, Decision Table, State Transition)
-- Basic knowledge of HTML/CSS.
-- Creation of basic queries in MySQL
-- Set up the PuTTY
-- Work with CLI console (on my laptop) and terminal in IDE
-- Flashed a new version via a programmer
-- Understanding of STLC and SDLC
-- Learning a GitHub
-- Learning the 'Playwright'
+
+### QA & Testing
+
+* Requirements analysis and testing
+* Manual testing
+* Functional, regression, smoke, and exploratory testing
+* Test scenario and test case creation
+* Test execution
+* Bug reporting
+* Test plan creation
+* Checklist creation
+* Test summary reports
+* Web and mobile application testing
+* Hardware and embedded testing
+* Cross-browser and cross-platform testing
+* Testing with emulators
+
+### Test Design Techniques
+
+* Use Case Testing
+* Equivalence Partitioning
+* Boundary Value Analysis
+* Decision Table Testing
+* State Transition Testing
+
+### Tools & Technologies
+
+* Jira
+* Trello
+* MS Azure DevOps
+* Confluence
+* Postman
+* Swagger
+* Figma
+* Miro
+* GitHub
+* VS Code
+* CLI / Terminal
+* Linux
+* PuTTY
+* MySQL — basic queries
+* HTML/CSS — basic knowledge
+
+### Embedded & Hardware
+
+* Hardware testing
+* CLI and terminal testing
+* Firmware testing
+* Flashing new firmware versions using a programmer
+* Basic understanding of hardware–software interaction
+* BLE, UART, I2C, I3C etc.
+
+### Currently Learning
+
+* **Playwright**
+* **GitHub / Git**
+* **AI prompting for QA and software testing**
+* Improving automation testing skills
+
+### Methodologies
+
+* Agile
+* Scrum
+* Kanban
+* Scrumban
+
+### QA Fundamentals
+
+* STLC
+* SDLC
+* Test planning
+* Test documentation
+* Defect lifecycle
 
 ## Achievements
 
-- 11.2024 Finalist of the Dev Challenge XXI
-- 11.2021 Finalist of the Dev Challenge XVIII
-- 11.2020 Finalist of the Dev Challenge XVII
+* 🏆 Finalist — Dev Challenge XXI, 2024
+* 🏆 Finalist — Dev Challenge XVIII, 2021
+* 🏆 Finalist — Dev Challenge XVII, 2020
 
-Obtained certification 'DataArt Winter IT Camp 2025' <b>
+### Education & Courses
 
-Complete 'Python fundamentals course' via UDEMY
+* **DataArt Winter IT Camp 2025** — Certificate
+* **Python Fundamentals** — Udemy
 
-Work with this OS: Windows, MacOS/Linux
-In mobile - Android, IOS
+## Operating Systems
 
-## Personal skills
+**Desktop:** Windows, Linux
 
-- Good communication
-- Self-organized
-- Self-motivated
-- Self-disciplined
-- Adaptable
-- Responsible
-- A conflict-free person
-- Team player
-- Collation with all team-members
-- Problem-solving
-- Willingness to continually learn and improve
-- Strong attention to detail and accuracy
+**Mobile:** Android, iOS (emulator)
 
 ## Projects
 
-- mPOS: This mobile point of sales terminal can and should be used in different stores.
-- STASH (https://play.google.com/store/apps/details?id=com.stashrnapp): The project is dedicated to the delivery service in Sweden.
-- [www.Y8.com ](https://www.y8.com/) Functional testing WEB and Mob
-- TosMap: The project is designed for people with disabilities. It allows them to find a suitable place to visit. It was created by Ukrainian developers and placed in the Play Market.
+### mPOS
+
+Mobile point-of-sale terminal designed for use in different retail environments.
+
+My testing experience included hardware, firmware, NFC/BLE communication, GPIO, Linux environment, test cases, and test documentation.
+
+### STASH
+
+[STASH — Google Play](https://play.google.com/store/apps/details?id=com.stashrnapp)
+
+Mobile delivery service project for the Swedish market.
+
+### Y8
+
+[Y8.com](https://www.y8.com/)
+
+Functional testing of web and mobile functionality.
+
+### TosMap
+
+A project designed to help people with disabilities find suitable places to visit.
+
+Developed by a Ukrainian team and published on Google Play.
+
+## Personal Skills
+
+* Attention to detail
+* Good communication
+* Self-organization
+* Self-motivation
+* Responsibility
+* Adaptability
+* Problem-solving
+* Teamwork
+* Continuous learning
+* Willingness to improve
+* Collaborative approach
 
 ## Contact
 
-- Email: umanuilova7@gmail.com
-- LinkedIn: https://www.linkedin.com/in/yuliia-manuilova-8049391b4/ 
-- Facebook: https://www.facebook.com/Julick17
-- Telegram: https://t.me/julick_17
-- Teams: julietta7101  
-  
- ## Additional info
+* 📧 Email: [umanuilova7@gmail.com](mailto:umanuilova7@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/yuliia-manuilova-8049391b4/
+* Facebook: https://www.facebook.com/Julick17
+* Telegram: https://t.me/julick_17
+* MS Teams: julietta7101
 
-I have a disability. 
-## But my ability is stronger!
+## Additional Information
 
-## Hobby
+I have a disability, but I believe that **my ability is stronger than my limitations.**
 
-- Billiard: piramide, snooker
-- Driving
+## Hobbies
 
-
-
+* 🎱 Billiards — pyramid and snooker
+* 🚗 Driving
